@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Academic Template"
-subtitle = ""
+title = "Research portfolio"
+subtitle = "Test"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -25,8 +25,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "DarkGreen"
-  gradient_end = "ForestGreen"
+  gradient_start = "Aqua"
+  gradient_end = "Beige"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
@@ -43,12 +43,17 @@ subtitle = ""
   padding = ["20px", "0", "20px", "0"]
 
 [advanced]
- # Custom CSS. 
+ # Custom CSS.
  css_style = ""
  
  # CSS class.
  css_class = ""
 +++
+
+<div style="padding:56.25% 0 0 0;position:relative;">
+  <iframe src="https://player.vimeo.com/video/590206640?h=29d2c541cd&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Flight of the bumble bee (1)"></iframe>
+</div>
+<script src="https://player.vimeo.com/api/player.js"></script>
 
 ## 👋 Welcome to the Academic Template
 

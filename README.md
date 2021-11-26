@@ -30,11 +30,6 @@ Today we ask you to defend the open source independence of the Wowchemy website 
 
 We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
 
-<div style="padding:56.25% 0 0 0;position:relative;">
-	<iframe src="https://player.vimeo.com/video/590206640?h=29d2c541cd&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Flight of the bumble bee (1)"></iframe>
-</div>
-<script src="https://player.vimeo.com/api/player.js"></script>
-
 ### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
 
 <p align="center"><a href="https://wowchemy.com/templates/" target="_blank" rel="noopener"><img src="https://wowchemy.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Wowchemy Website Builder"></a></p>
