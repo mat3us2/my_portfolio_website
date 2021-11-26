@@ -26,7 +26,7 @@ subtitle = "Test"
   
   # Background gradient.
   gradient_start = "Black"
-  gradient_end = "Grey"
+  gradient_end = "Black"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
